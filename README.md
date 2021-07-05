@@ -14,7 +14,7 @@ The output is shown below,
 
 ![a](https://user-images.githubusercontent.com/84028364/124137704-90469000-daa3-11eb-99ed-82a947c7bd30.jpg)
 
-![b](https://user-images.githubusercontent.com/84028364/124137886-c126c500-daa3-11eb-9ea4-fa35d569f6e0.jpg)
+![b](https://user-images.githubusercontent.com/84028364/124509311-5a7d1080-ddef-11eb-96e6-2533a7de3426.jpg)
 
 ![c](https://user-images.githubusercontent.com/84028364/124138033-e3b8de00-daa3-11eb-97a1-2f6bdf5deb82.jpg)
 
